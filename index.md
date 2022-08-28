@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Web Underground
+subtitle: el mundo grandioso de la programacion web
 layout: page
 callouts: home_callouts
 show_sidebar: true
